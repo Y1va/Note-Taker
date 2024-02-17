@@ -3,7 +3,6 @@ const apiRoutes = require("./routes/apiroutes");
 const htmlRoutes = require("./routes/htmlRoutes");
 
 
-
 // Initialise the app
 const app = express();
 const PORT = process.env.PORT || 3001
